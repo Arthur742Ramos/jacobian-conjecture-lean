@@ -34,7 +34,7 @@ two-dimensional Jacobian conjecture.
 
 ## Verification
 
-The project uses Lean 4 v4.32.0 and a pinned Mathlib manifest:
+The project uses Lean 4 v4.33.0 and a pinned Mathlib manifest:
 
 ```text
 lake exe cache get
