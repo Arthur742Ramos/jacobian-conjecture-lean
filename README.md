@@ -61,5 +61,6 @@ A related independent Lean formalization is pinned at:
 <https://github.com/deancureton/jacobian/tree/0d4a9212d874226ad81ce5a926becddfa94e6a88>
 
 The project is prepared for the [Palomar Registry](https://palomar-registry.org/).
+To submit it, use the [Palomar submission form](https://submit.palomar-registry.org/).
 Palomar submissions require a public repository, a fixed commit, and explicit
 maintainer authorization.

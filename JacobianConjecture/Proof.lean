@@ -1,4 +1,9 @@
 import JacobianConjecture.Definitions
+import Mathlib.Data.Complex.Basic
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Ring
 
 /-!
 # Machine-checked proof of the explicit counterexample

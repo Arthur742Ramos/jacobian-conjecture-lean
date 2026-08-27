@@ -1,4 +1,7 @@
-import Mathlib
+import Mathlib.Algebra.MvPolynomial.Eval
+import Mathlib.Algebra.MvPolynomial.PDeriv
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.LinearAlgebra.Matrix.Determinant.Basic
 
 /-!
 # Definitions for an explicit Jacobian-conjecture counterexample
