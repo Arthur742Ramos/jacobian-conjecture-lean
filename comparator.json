@@ -1,8 +1,17 @@
 {
   "challenge_module": "Challenge",
   "solution_module": "Solution",
-  "theorem_names": ["PalomarTemplate.main_result"],
-  "definition_names": [],
+  "theorem_names": [
+    "JacobianCounterexample.jacobianDet_F",
+    "JacobianCounterexample.explicit_three_point_fibre",
+    "JacobianCounterexample.not_jacobian_conjecture_complex"
+  ],
+  "definition_names": [
+    "MvPolynomial.jacobianMatrix",
+    "MvPolynomial.jacobianDet",
+    "MvPolynomial.evalMap",
+    "JacobianCounterexample.F"
+  ],
   "permitted_axioms": ["propext", "Quot.sound", "Classical.choice"],
   "enable_nanoda": true
 }

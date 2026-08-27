@@ -1,13 +1,10 @@
-import PalomarTemplate
+import JacobianConjecture.Proof
 
 /-!
 # Proved solution
 
-This module may import the full proof development. Comparator checks that the
-declaration below has exactly the same statement as its counterpart in
-`Challenge.lean` and uses only the permitted axioms.
+This module imports the full proof development. Comparator checks that the
+advertised declarations have exactly the same statements as their counterparts
+in `Challenge.lean` and that the completed proofs use only the permitted Lean
+axioms.
 -/
-
-theorem PalomarTemplate.main_result (n : ℕ) : n + n = 2 * n := by
-  exact add_self_eq_two_mul n
-

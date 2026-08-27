@@ -3,7 +3,7 @@
  "packages":
  [{"type": "path",
    "scope": "",
-   "name": "PalomarTemplate",
+   "name": "JacobianConjecture",
    "manifestFile": "lake-manifest.json",
    "inherited": false,
    "dir": "../",
